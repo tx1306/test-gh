@@ -13,9 +13,9 @@ git add --all
 git commit -m "comentario"
 ```
 # Perfil Profesional
-![be605907-f914-4c4d-9b76-f04d6a2433b2](https://github.com/user-attachments/assets/98b9ccce-bfa3-4eb0-b7f9-68e0643866f3)
+
 <p align="center">
-  <img src="be605907-f914-4c4d-9b76-f04d6a2433b2](https://github.com/user-attachments/assets/98b9ccce-bfa3-4eb0-b7f9-68e0643866f3)" width="150" />
+  <img src="https://github.com/user-attachments/assets/98b9ccce-bfa3-4eb0-b7f9-68e0643866f3" width="150" />
 </p>
 
 ## Sobre mí
