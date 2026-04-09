@@ -14,8 +14,8 @@ git commit -m "comentario"
 ```
 # Perfil Profesional
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98b9ccce-bfa3-4eb0-b7f9-68e0643866f3" width="150" />
+<p align="">
+  <img src="https://github.com/user-attachments/assets/98b9ccce-bfa3-4eb0-b7f9-68e0643866f3" width="180" />
 </p>
 
 ## Sobre mí
