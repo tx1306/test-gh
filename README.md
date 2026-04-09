@@ -18,7 +18,6 @@ Soy el estudiante Cristian Marcelo Rodriguez de Ingeniería de Sistemas con inte
 ## 📫 Contacto
 - Email:marceelpapi1999@gmail.com
 
-![Captura de pantalla](https://github.com/user-attachments/assets/7a7b3a0a-de2a-4ea5-8b17-71645b6d14db)
 ## Seccion de codigo
 ```bash
 git init
